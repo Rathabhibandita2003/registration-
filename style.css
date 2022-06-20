@@ -6,6 +6,7 @@
     background-image: linear-gradient(rgba(73, 71, 65, 0.7),rgba(68, 65, 56, 0.7)),url(https://images.unsplash.com/photo-1607125517027-51e6eb339ea4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80);
    background-size: cover;
    background-position: center;
+   background-repeat: no-repeat;
    
   }
   div.main{

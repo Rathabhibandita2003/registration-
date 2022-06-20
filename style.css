@@ -11,6 +11,7 @@
   div.main{
     width: 400px;
     margin: 100px auto 0px auto;
+    padding-bottom: 10%;
   }
   h2{
     text-align: center;
@@ -25,6 +26,7 @@
         border: 1px solid rgba(98, 95, 95, 0.3);
         box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
         color: #fff;
+        ;
     }
     form#register{
         margin: 40px;
